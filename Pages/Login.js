@@ -6,7 +6,7 @@ import { StyleSheet, Text, View, SafeAreaView, TouchableOpacity,ImageBackground}
 import { Formik } from 'formik'
 import {loginValidationsSchema}from '../validations/Form'
 
-const image= require('../assets/images/fundo.jpeg');
+const image= require('../assets/images/Imagem1.jpeg');
 
 
 export default function Login({ navigation }) {
